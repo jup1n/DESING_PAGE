@@ -1,0 +1,14 @@
+.header{
+    height: 121px;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    background: #0B2447;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+ }
